@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Oleo+Script+Swash+Caps&display=swap');
+
+h1{
+    background-color: rgb(202, 69, 151);
+    text-align: center;
+    font-family: 'Dancing Script', cursive;;
+    padding: 5px;
+    color: white;
+    background-image: linear-gradient(pink, rgb(162, 199, 61));
+}
+h2{
+    background-color: pink;
+    text-align: center;
+    font-family:'Dancing Script', cursive;;
+}
+h3{
+    background-color: pink;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Dancing Script', cursive;
+    padding: 4px;
+    margin: 2px;
+}
+p{
+    background-color: palegreen;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
